@@ -5,4 +5,5 @@ class HelloWorld
 {
 System.out.print("Hello World");
 int m;
+string ma;
 }
